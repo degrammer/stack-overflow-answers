@@ -1,0 +1,24 @@
+{
+  "name": "stack-overflow-answers",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degrammer/stack-overflow-answers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/degrammer/stack-overflow-answers/issues"
+  },
+  "homepage": "https://github.com/degrammer/stack-overflow-answers#readme",
+  "dependencies": {
+    "octokit": "^2.0.14"
+  }
+}
